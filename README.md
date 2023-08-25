@@ -1,2 +1,2 @@
 # VueApp
-Vue app from a previous project.
+Vue app from my previous project.
